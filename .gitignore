@@ -4,6 +4,8 @@ build/
 
 logs/
 
+log/
+
 src/CMakeLists.txt
 
 .vscode
